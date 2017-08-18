@@ -1,5 +1,5 @@
-# minergate-cli
-Minergate mining console application (under GPLv3.0).
+# hashrate-cli
+Console multicoin miner application (under GPLv3.0).
 
 
 # CONTRIB
